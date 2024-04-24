@@ -13,6 +13,7 @@ public class AuthManager {
     //MARK: -Public
     
     public func registerNewUser(username: String, email: String, password: String) {
+        var ishika = true
         
     }
     
